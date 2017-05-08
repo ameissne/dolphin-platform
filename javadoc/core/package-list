@@ -1,0 +1,16 @@
+com.canoo.dolphin
+com.canoo.dolphin.binding
+com.canoo.dolphin.collections
+com.canoo.dolphin.converter
+com.canoo.dolphin.event
+com.canoo.dolphin.impl
+com.canoo.dolphin.impl.codec
+com.canoo.dolphin.impl.collections
+com.canoo.dolphin.impl.commands
+com.canoo.dolphin.impl.converters
+com.canoo.dolphin.impl.info
+com.canoo.dolphin.internal
+com.canoo.dolphin.internal.collections
+com.canoo.dolphin.internal.info
+com.canoo.dolphin.mapping
+com.canoo.dolphin.util

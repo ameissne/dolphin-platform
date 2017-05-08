@@ -1,0 +1,15 @@
+com.canoo.dolphin.server
+com.canoo.dolphin.server.binding
+com.canoo.dolphin.server.binding.impl
+com.canoo.dolphin.server.bootstrap
+com.canoo.dolphin.server.config
+com.canoo.dolphin.server.container
+com.canoo.dolphin.server.context
+com.canoo.dolphin.server.controller
+com.canoo.dolphin.server.event
+com.canoo.dolphin.server.event.impl
+com.canoo.dolphin.server.impl
+com.canoo.dolphin.server.impl.gc
+com.canoo.dolphin.server.mbean
+com.canoo.dolphin.server.mbean.beans
+com.canoo.dolphin.server.servlet

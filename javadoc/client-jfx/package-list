@@ -1,0 +1,6 @@
+com.canoo.dolphin.client.javafx
+com.canoo.dolphin.client.javafx.binding
+com.canoo.dolphin.client.javafx.impl
+com.canoo.dolphin.client.javafx.impl.numeric
+com.canoo.dolphin.client.javafx.stage
+com.canoo.dolphin.client.javafx.view
